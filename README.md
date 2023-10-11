@@ -1,6 +1,6 @@
 # dotfiles
 My dotfiles
 ## Supported OS
-    * FreeBSD
-    * MacOS
-    * Linux
+* FreeBSD
+* MacOS
+* Linux
